@@ -1,0 +1,11 @@
+Step 1
+ 
+Run The backend File First, Ensure all the Modules are installed
+
+Step 2
+
+Open a New chrome tab and type "localhost:3000"
+
+Step 3
+
+Enter The image for classification and in a new Tab, the Emotions Will be generated
